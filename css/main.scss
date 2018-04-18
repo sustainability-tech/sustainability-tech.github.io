@@ -51,6 +51,17 @@ $baseurl: '{{ site.baseurl }}/images';
   border-radius: 50% !important;
 }
 
+.image-text {
+  color: #bbb;
+  font-size: .7rem;
+  line-height: 1.1rem;
+  text-transform: uppercase;
+}
+
+.image-text img {
+  margin-bottom: 20px;
+}
+
 /* Basic */
 
   @-ms-viewport {
