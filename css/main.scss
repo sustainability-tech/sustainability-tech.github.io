@@ -46,10 +46,9 @@ $baseurl: '{{ site.baseurl }}/images';
   margin: 0 10px 5px 0;
 }
 
-.iot img {
-  max-width: 600px;
-  display: block;
-  margin: 0 auto 50px auto;
+.avatar img {
+  max-width: 60px;
+  border-radius: 50% !important;
 }
 
 /* Basic */
@@ -238,6 +237,9 @@ $baseurl: '{{ site.baseurl }}/images';
   }
 
   header {
+    h2 {
+      margin-bottom: 5px;
+    }
     p {
       color: _palette(fg-light);
       position: relative;
