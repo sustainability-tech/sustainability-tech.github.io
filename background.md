@@ -2,7 +2,7 @@
 layout: page
 title: Background
 ---
-Want to read some more background information or need some offline information, please find below some of our in depth information
+Find a list of background information for offline and promotional use. 
 
 <ul>
   <li><a href="/download/Sustainability Tech - A company outline.pdf">Sustainability Tech - A company outline (7.7MB)</a></li>
