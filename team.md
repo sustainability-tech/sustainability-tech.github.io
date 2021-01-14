@@ -26,7 +26,7 @@ With an academic background in ecology and biodiversity conservation, and more r
 
 <span class="avatar image left"><img src="/images/roy.jpg" alt="Roy Niels" /></span>
 <header>
-  <h2>Roy Niels</h2>
+  <h2>Roy Niels 1</h2>
   <p>Co-founder</p>
 </header>
 Roy strongly believes that there are still great steps to be made in bringing technological solutions to the field of sustainability. Where companies working in these fields might not always have the technical know how to streamline these processes, he thinks that Sustainability Tech can make a significant difference and raise the field of sustainability to a new level.
