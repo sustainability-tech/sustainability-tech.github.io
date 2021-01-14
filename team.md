@@ -2,7 +2,7 @@
 layout: page
 title: Team
 ---
-<span class="avatar image left"><img src="/images/sebastianpersch.jpg" alt="Sebastian Persch" /></span>
+<span class="avatar image left"><img src="/images/sebastian.jpg" alt="Sebastian Persch" /></span>
 <header>
   <h2>Sebastian Persch</h2>
   <p>Co-founder</p>
@@ -13,7 +13,7 @@ With over 7 years of research experience in tropical peatlands, oil palm product
 
 ---
 
-<span class="avatar image left"><img src="/images/joshvanvianen.jpg" alt="Josh van Vianen" /></span>
+<span class="avatar image left"><img src="/images/josh.jpg" alt="Josh van Vianen" /></span>
 <header>
   <h2>Josh van Vianan</h2>
   <p>Co-founder</p>
@@ -24,11 +24,33 @@ With an academic background in ecology and biodiversity conservation, and more r
 
 ---
 
-<span class="avatar image left"><img src="/images/royniels.jpg" alt="Roy Niels" /></span>
+<span class="avatar image left"><img src="/images/roy.jpg" alt="Roy Niels" /></span>
 <header>
   <h2>Roy Niels</h2>
   <p>Co-founder</p>
 </header>
 Roy strongly believes that there are still great steps to be made in bringing technological solutions to the field of sustainability. Where companies working in these fields might not always have the technical know how to streamline these processes, he thinks that Sustainability Tech can make a significant difference and raise the field of sustainability to a new level.
 
-With a 15 years working experience programming mainly web applications, he knows what it takes to automate complex systems. He has worked for renowned clients all around the globe and has been leading projects that not only expected the technical knowledge but also creative solutions where time constraints were high. He is fluent in a multitude of programming languages and is always looking for technical solutions to optimize products, being it software based or hardware oriented.
+With a 15 years working experience programming mainly web applications, he knows what it takes to automate complex systems. He has worked for renowned clients all around the globe and has been leading projects that not only expected the technical knowledge but also creative solutions where time constraints were high. He is fluent in a multitude of programming languages and is always looking for technical solutions to optimise products, being it software based or hardware oriented.
+
+---
+
+<span class="avatar image left"><img src="/images/isti.jpg" alt="Roy Niels" /></span>
+<header>
+  <h2>Isti Hanifah</h2>
+  <p>Policy, Legal and Finance</p>
+</header>
+Isti has over 12 years’ of experience in regulatory design and implementation for state asset management in Indonesia with specialization in sustainable financing and environmental policy. Her areas of focus include sustainable natural resources management and conservation, institutional development, policies, and financing, public sector strategy and community engagement.
+
+Before joining Sustainability Tech, Isti worked for Indonesian Ministry of Finance and was a certified government’s non-attorney representative at court and a public bailiff.
+
+---
+
+<span class="avatar image left"><img src="/images/weda.jpg" alt="Roy Niels" /></span>
+<header>
+  <h2>Made Weda Maharta</h2>
+  <p>Hardware/software developer</p>
+</header>
+As part of his internship for the Bali State Polytechnic Weda has joined Sustainability Tech to help with current hardware and work on new cutting edge IoT devices that will be the new generation of field devices that collect real time data.
+
+Weda is building (prototype) hardware and programming in low level programming languages like C and C++ to make sure our sensors give back the most accurate results.
