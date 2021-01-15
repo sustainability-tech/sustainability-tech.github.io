@@ -1,0 +1,1 @@
+Check the google doc manual for how to deploy if you don't want to lose your mind
