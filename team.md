@@ -26,7 +26,7 @@ With an academic background in ecology and biodiversity conservation, and more r
 
 <span class="avatar image left"><img src="/images/roy.jpg" alt="Roy Niels" /></span>
 <header>
-  <h2>Roy Niels 1</h2>
+  <h2>Roy Niels</h2>
   <p>Co-founder</p>
 </header>
 Roy strongly believes that there are still great steps to be made in bringing technological solutions to the field of sustainability. Where companies working in these fields might not always have the technical know how to streamline these processes, he thinks that Sustainability Tech can make a significant difference and raise the field of sustainability to a new level.
@@ -45,12 +45,3 @@ Isti has over 12 years’ of experience in regulatory design and implementation 
 Before joining Sustainability Tech, Isti worked for Indonesian Ministry of Finance and was a certified government’s non-attorney representative at court and a public bailiff.
 
 ---
-
-<span class="avatar image left"><img src="/images/weda.jpg" alt="Roy Niels" /></span>
-<header>
-  <h2>Made Weda Maharta</h2>
-  <p>Hardware/software developer</p>
-</header>
-As part of his internship for the Bali State Polytechnic Weda has joined Sustainability Tech to help with current hardware and work on new cutting edge IoT devices that will be the new generation of field devices that collect real time data.
-
-Weda is building (prototype) hardware and programming in low level programming languages like C and C++ to make sure our sensors give back the most accurate results.
